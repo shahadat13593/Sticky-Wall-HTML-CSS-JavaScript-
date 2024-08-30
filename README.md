@@ -9,6 +9,9 @@
 - **Delete Notes**: Remove unwanted notes with a simple click.
 - **Random Background Colors**: Each note gets a randomly selected background color for easy differentiation.
 
+## Preview
+![Capture](https://github.com/user-attachments/assets/54cd4236-e47f-421a-9160-0ccaed0b55da)
+
 ## Technologies Used
 
 - **HTML5**
