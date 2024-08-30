@@ -27,6 +27,6 @@
 
 1. Clone the repository:
    ```bash
-   [git clone https://github.com/your-username/sticky-wall.git](https://github.com/shahadat13593/StickyWall-HTML-CSS-JavaScript.git)
+   https://github.com/shahadat13593/StickyWall-HTML-CSS-JavaScript.git
    ```
 2. Open the index.html file in your browser.
